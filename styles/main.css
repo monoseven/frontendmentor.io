@@ -1,8 +1,38 @@
 body {
-    background-color: hsl(212, 45%, 89%);
+    background-color: hsl(212, 45%, 89%) !important;
     font-family: 'Outfit', sans-serif;
-    color: #29A8B1;
+    
   }
+
+.card{
+    font-family: 'Outfit', sans-serif;
+    width: 21rem;
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+    border-radius: 7% !important;
+    color: hsl(0, 0%, 100%);
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+  }
+
+.img-rounded{
+    border-radius: 7%;
+}
+.card-title{
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+
+}
+.card-text{
+    text-align: center;
+    font-weight: 300;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
 
 .attribution { 
     font-size: 11px; text-align: center; 
