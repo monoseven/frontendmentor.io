@@ -18,7 +18,7 @@ This project was submitted for fullfiling the code challange provided by fronten
 
 ### Screenshot
 
-![](./web-screenshot.png)
+![](.//screenshots/web-screenshot.png)
 ![](./screenshots/mobile-screenshot.png)
 
 ### Links
